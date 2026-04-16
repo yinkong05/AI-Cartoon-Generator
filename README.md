@@ -4,9 +4,9 @@
 
 AI Cartoon Generator is a creator-friendly online studio for people who want cartoon and anime-style results without wrestling with complex AI settings. You can start from a selfie, pet photo, portrait, product image, or a short text prompt, then turn it into a polished cartoon image in just a few steps. The product is built for real use cases like profile pictures, creator branding, social posts, thumbnails, stickers, character concepts, and visual experiments worth saving.
 
-https://artworks.aicartoongenerator.io/assets/showcases/pet-after.webp
+![photo to cartoon](https://artworks.aicartoongenerator.io/assets/showcases/pet-after.webp)
 
-https://artworks.aicartoongenerator.io/assets/showcases/group-photo_after.webp
+![image to cartoon](https://artworks.aicartoongenerator.io/assets/showcases/group-photo_after.webp)
 
 ### Features
 
